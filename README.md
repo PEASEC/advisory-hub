@@ -14,7 +14,7 @@ If you chose to use any of the techniques or the code itself, please cite the fo
 ```
 @inproceedings{kaufholdAdvisoryHubDesignEvaluation2025,
   address = {Ghent, Belgium},
-  doi = {tba},
+  doi = {10.1007/978-3-032-00627-1_3},
   title = {{AdvisoryHub}: {Design} and {Evaluation} of a {Cross}-{Platform} {Security} {Advisory} {System} for {Cyber} {Situational} {Awareness}},
   language = {en},
   booktitle = {Proceedings of the 20th {International} {Conference} on {Availability}, {Reliability} and {Security} ({ARES} 2025)},
